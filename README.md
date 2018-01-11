@@ -1,5 +1,4 @@
-# This is a project to look at some basic statistical properties of the 50th
-# known Mersenne prime M77232917.
+# This is a project to look at some basic statistical properties of the 50th known Mersenne prime M77232917.
 
 Things I looked at:
 - Length of the prime
